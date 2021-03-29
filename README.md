@@ -1,5 +1,5 @@
 # mitaller
-En este repositorio comparto mis trabajos, proyectos e ideas en la asignatura Tipología de los Datos y Ciclo de Vida en el Master de Ciencia de lo Datos.
+En este repositorio comparto mis trabajos, proyectos e ideas en la asignatura **Tipología y ciclo de vida de los datos. M2.851**.
 
 # DataSet
 Información de contagios, confirmados y muertos por avance del corona virus **COVID-19 en EU/EEA y UK 2020**.
