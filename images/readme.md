@@ -1,1 +1,1 @@
-# Imagenes y gráficos
+# Imágenes y gráficos 
