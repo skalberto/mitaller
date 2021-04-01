@@ -8,6 +8,6 @@ Descripción de los **scripts**:
 > 
 > ws_3.py: Este script envía los gráficos de contagiados.png, confirmados.png y muertos.png a Telegram utilizando librería telepod python.
 > 
-> ws_4.py: Este script es opcional, pues a veces cuando actualizan los data aparecen caracteres ASCII mayores a 128 y hay que procesar los datos de manera diferente.
+> ws_4.py: Este script es opcional, pues a veces cuando actualizan los data aparecen caracteres ASCII mayores a 128 y hay que procesar los datos de manera diferente. De hecho, he diseñado una función que LIMPIA los datos que son problemáticos.
 > 
 
