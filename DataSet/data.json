@@ -1,0 +1,44 @@
+﻿[
+  {
+    "muertos": " 100",
+    "enfermos": " 6,829",
+    "admisión": " 19",
+    "Confirmados": " 6,948",
+    "City": " Rivers"
+  },
+  {
+    "muertos": " 57",
+    "enfermos": " 8,949",
+    "admisión": " 22",
+    "Confirmados": " 9,028",
+    "City": " Plateau"
+  },
+  {
+    "muertos": " 123",
+    "enfermos": " 6,241",
+    "admisión": " 474",
+    "Confirmados": " 6,838",
+    "City": " Oyo"
+  },
+  {
+    "muertos": " 439",
+    "enfermos": " 56,990",
+    "admisión": " 393",
+    "Confirmados": " 57,822",
+    "City": " Lagos"
+  },
+  {
+    "muertos": " 65",
+    "enfermos": " 8,855",
+    "admisión": " 47",
+    "Confirmados": " 8,967",
+    "City": " Kaduna"
+  },
+  {
+    "muertos": " 164",
+    "enfermos": " 18,073",
+    "admisión": " 1,441",
+    "Confirmados": " 19,678",
+    "City": " FCT"
+  }
+]
