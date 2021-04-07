@@ -9,3 +9,4 @@ Información de contagios, confirmados y muertos por avance del corona virus **C
 # Link para consultar
 * Link 1 [Casos de contagios generales](https://www.ecdc.europa.eu)
 * Link 2 [Casos de contagios por paises](https://www.ecdc.europa.eu/en/geographical-distribution-2019-ncov-cases)
+* Link 3 [Casos de contagios en Nigeria](https://covid19.ncdc.gov.ng/)
